@@ -1,7 +1,5 @@
 <h1 align="center">Ryan Chiang</h1>
-<h3 align="center">Just keep building.</h3>
-
-*Just keep building. Then show the world what you've built.*
+<h3 align="center">Just keep building. Then show the world what you've built.</h3>
 
 Hello, I'm Ryan. 👋
 

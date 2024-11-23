@@ -13,6 +13,12 @@ Topics may include:
 - Bootstrapped solopreneurship
 - Anything else that piques my interest
 
-<p align="left">
-</p>
+Featured projects:
+
+- [Featurable.com](https://featurable.com)
+- [EssaysThatWorked.com](https://essaysthatworked.com)
+- [ScholarshipsThatWork.com](https://scholarshipsthatwork.com)
+- [FaceLandmarks.com](https://facelandmarks.com)
+- [ClickExtract.com](https://clickextract.com)
+  
 

@@ -16,6 +16,7 @@ Topics may include:
 Featured projects:
 
 - [Featurable.com](https://featurable.com)
+- [TriviaBear.com](https://triviabear.com)
 - [EssaysThatWorked.com](https://essaysthatworked.com)
 - [ScholarshipsThatWork.com](https://scholarshipsthatwork.com)
 - [FaceLandmarks.com](https://facelandmarks.com)
